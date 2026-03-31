@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "Animclix-0.1.0.apk",
-  "notes": "First Animclix release(Beta)."
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "apkUrl": "Animclix-0.1.4.apk",
+  "notes": "mejore el mecanismo de update"
 }
 
