@@ -1,7 +1,6 @@
 {
   "versionCode": 5,
   "versionName": "0.1.4",
-  "apkUrl": "Animclix-0.1.4.apk",
+  "apkUrl": "https://github.com/fuxianim/animclix/releases/download/v0.1.4/Animclix-0.1.4.apk.enc",
   "notes": "mejore el mecanismo de update"
 }
-
