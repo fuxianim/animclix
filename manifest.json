@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apkUrl": "Animclix-0.1.2.apk.enc",
-  "notes": "moved settings"
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apkUrl": "Animclix-0.1.3.apk.enc",
+  "notes": "tweakee  max intervalo que espera el seek y sigo probando el mecanismo de update"
 }
